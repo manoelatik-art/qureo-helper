@@ -1,1 +1,0 @@
-# qureo-helper
